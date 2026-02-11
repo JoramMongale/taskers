@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767941023108",
+    "project_id": "taskers---connect",
+    "storage_bucket": "taskers---connect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767941023108:android:99e1ced21dad84fc9cb9d1",
+        "android_client_info": {
+          "package_name": "com.connect.taskers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_rCSMxlWp_lrIdpNoK4fEFz_CVx64x0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
